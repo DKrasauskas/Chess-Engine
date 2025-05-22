@@ -2,6 +2,7 @@
 # Set default behavior to automatically normalize line endings.
 ###############################################################################
 REWORK/Magics.h linguist-generated
+REWORK/Table.h linguist-generated
 * text=auto
 
 ###############################################################################
